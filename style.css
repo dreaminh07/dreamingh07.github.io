@@ -1,3 +1,4 @@
+body { background-color: white !important; }
 *{
     box-sizing: border-box;
     margin: 0;
@@ -71,5 +72,6 @@ body {
     color: #9ca3af;
 
 }
+
 
 
