@@ -1,3 +1,5 @@
+body { background-color: red !important; }
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -71,3 +73,4 @@ body {
     color: #9ca3af;
 
 }
+
